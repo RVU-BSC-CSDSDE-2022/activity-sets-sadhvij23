@@ -1,7 +1,10 @@
 #include<stdio.h>
-void main()
+int main()
 {
-  int name;
-  printf("enter your name");
-  scanf("%d",&name);
+  char name[10]="SADHVI";
+
+  print("%s", name);
+  return 0;
+
+  }
 }
