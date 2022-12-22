@@ -10,7 +10,7 @@ int main()
   c=input();
   largest=compare(a,b,c);
   output( a,  b,  c,  largest); 
-}
+  }
 int input()
 {
  int n;
