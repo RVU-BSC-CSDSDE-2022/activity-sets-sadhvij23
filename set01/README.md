@@ -124,7 +124,7 @@ void output(int n, int sum);
 
 ***Input***
 ```
-1
+
 2
 3
 ```
